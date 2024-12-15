@@ -5,3 +5,5 @@ This project involves a comprehensive Tableau dashboard created for credit card 
 - Designed and developed an interactive Tableau dashboard analyzing over 86,000 credit card complaints, improving data analysis accuracy by 95% and visualization efficiency by 40%.
 - Implemented KPIs and visualizations, including state-wise heatmaps and daily trends, enabling a 30% faster identification of top issues and resolution patterns.
 - Enhanced stakeholder decision-making by integrating dynamic filters and exportable reports, increasing reporting efficiency by 50%.
+
+![Dashboard image](https://github.com/user-attachments/assets/4e296b99-8345-4bcc-8e9f-4aaeff4eeb72)
